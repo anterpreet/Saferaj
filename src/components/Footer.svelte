@@ -4,9 +4,9 @@
       companyName = "Quiety",
       logoUrl = "/images/logo-white.png",
       companyTagline = "Your Safety and Compliance Partner for the transportation industry. We provide comprehensive solutions to keep your fleet safe and compliant.",
-      address = "123 Safety Drive, Suite 100, Trucking City, TC 12345",
-      email = "info@saferaj.com",
-      phone = "888-555-SAFE (7233)",
+      address = "Abbotsford, BC, Canada"
+      email = "saferaj@gmail.com",
+      phone = "+1 (236) 622-4504",
       quickLinks = [
         { text: "About Us", url: "/about" },
         { text: "Our Services", url: "/services" },
