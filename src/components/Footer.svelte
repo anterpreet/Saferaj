@@ -5,7 +5,7 @@
       logoUrl = "/images/logo-white.png",
       companyTagline = "Your Safety and Compliance Partner for the transportation industry. We provide comprehensive solutions to keep your fleet safe and compliant.",
       address = "Abbotsford, BC, Canada",
-      email = "saferaj@gmail.com",
+      email = "saferajbc@gmail.com",
       phone = "+1 (236) 622-4504",
       quickLinks = [
         { text: "About Us", url: "/about" },
